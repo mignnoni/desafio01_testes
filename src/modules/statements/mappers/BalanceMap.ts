@@ -1,3 +1,4 @@
+
 import { Statement } from "../entities/Statement";
 
 export class BalanceMap {
